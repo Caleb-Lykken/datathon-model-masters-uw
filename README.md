@@ -5,7 +5,7 @@ ___
 
 #### Model Masters for DubTech Datathon 2024
 
-[view our code here](https://nbviewer.org/github/Caleb-Lykken/datathon-model-masters-uw/blob/main/Datathon_2024_Model_Masters.ipynb)
+[view our code here](https://nbviewer.org/github/Caleb-Lykken/datathon-model-masters-uw/blob/main/Model_Masters_Datathon_2024.ipynb)
 
 ## Objectives
 
