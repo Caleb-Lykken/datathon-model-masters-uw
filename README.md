@@ -28,7 +28,7 @@ Develop a predictive model to forecast future drug overdose death rates for each
 
 - Build a machine learning model to identify individuals or demographics at the highest risk of drug overdose deaths. Use features like drug type, age, sex, race, and Hispanic origin.
 
-Our model was able to predict with a 97% accuracy the death rates of drug overdoses in the United States from our given dataset. From our bar plot of the feature selections, we can see that the demographic with the most importance is MALE with a 216 F score. White and American Indian or Alaska Native comes in second and third importance.
+Our model was able to predict with a 97% accuracy the death rates of drug overdoses in the United States from our given dataset. From our bar plot of the feature selections, we can see that the demographic with the most importance is MALE with a 216 F score. The "White" and "American Indian or Alaska Native" features come in second and third importance.
 
 ___
 
